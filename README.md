@@ -12,23 +12,18 @@ A little Vue app
 - 📦 Optimized Build
 - 🔑 Fully Typed APIs
 
-# VueX ⚡
+<br>
 
-💡 Every page have own vuex state
+# WindiCSS ⚡
 
-```
-1. fav.js - for working with favorites
-2. auth.js - for working with firebase and login/signup page
-3. movie - movie per page
-4. movies - catalog movies
-```
-
-# Vue Router ⚡
-
-- 💡 for working with favorites
+- 💡 for styles
 
 <br/>
-<br/>
+
+# vite-plugin-pages ⚡
+
+- 💡 for working with categories
+
 <br/>
 <center>
 <img src="page.jpg">
@@ -52,7 +47,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install
+  pnpm install
 ```
 
 Start the server
