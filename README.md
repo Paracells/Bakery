@@ -26,7 +26,7 @@ A little Vue app
 
 <br/>
 <center>
-<img src="page.jpg">
+<img src="page.png">
 </center>
 <br/>
 
