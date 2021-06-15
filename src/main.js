@@ -7,7 +7,7 @@ import routes from "virtual:generated-pages";
 const router = createRouter({
   history: createWebHistory(),
   routes,
-  linkActiveClass: "text-yellow-500",
+  linkExactActiveClass: "text-yellow-500",
 });
 
 createApp(App).use(router).mount("#app");
