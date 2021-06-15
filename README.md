@@ -5,7 +5,7 @@ A little Vue app
 <br/>
 <p align="center">Tools used</p>
 
-# Vite ⚡
+# [Vite](https://vitejs.dev/) ⚡
 
 - 💡 Component
 - ⚡️ Lightning Fast HMR
@@ -14,15 +14,15 @@ A little Vue app
 
 <br>
 
-# WindiCSS ⚡
+# [WindiCSS](https://windicss.org/) ⚡
 
 - 💡 for styles
 
 <br/>
 
-# vite-plugin-pages ⚡
+# [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) ⚡
 
-- 💡 for working with categories
+- 💡 File system based route generator
 
 <br/>
 <center>
@@ -41,7 +41,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Bakery
 ```
 
 Install dependencies
@@ -53,9 +53,9 @@ Install dependencies
 Start the server
 
 ```bash
-  pnpm run start
+  pnpm run dev
 ```
 
 # License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
